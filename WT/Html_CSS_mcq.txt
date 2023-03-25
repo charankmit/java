@@ -1,0 +1,75 @@
+If we want to place text around an image, which CSS property should we use?
+A. push
+B. float
+C. align
+D. wrap
+ANSWER: B
+
+Can we align an element by setting margin-left and margin-right?
+A. Yes it’s possible.
+B. No, it’s not possible.
+ANSWER: B
+
+Choose the correct HTML tag for a large title.
+A. H1
+B. Heading
+C. Head
+D. H6
+ANSWER: A
+
+If we want to use a nice green dotted border around an image, which css property are we going to use?
+A. border-line
+B. border-style
+C. border-decoration
+D. border-color
+E. border-color and border-style
+ANSWER: B
+
+An HTML document can contain _____
+A. Attributes
+B. Tags
+C. Raw text
+D. All of the mentioned
+ANSWER: D
+
+Which tag is used to display pre-formatted text?
+A. <pre> … </pre>
+B. <prefor> … </prefor>
+C. <p> … </p>
+D. <pre-format> … </pre-format>
+ANSWER: A
+
+How to add alternative text to an image?
+A. <img src = “https://stackhowto.com/logo.png” alternate = “logo” />
+B. <img src = “https://stackhowto.com/logo.png” alt text = “logo” />
+C. <img src = “https://stackhowto.com/logo.png” alternate text = “logo” />
+D. <img src = “https://stackhowto.com/logo.png” alt = “logo” />
+ANSWER: D
+
+In HTML, Uniform Resource Locator (URL) is used _____
+A. To create a frame document.
+B. To create an image map in a web page.
+C. To customize the image in a web page.
+D. To identify a name or a resource on the Internet.
+ANSWER: D
+
+What should be the value of the “width” property of the following table: (<table style="width:'???'">), to make the width of the table fit the current width of the browser window?
+A. 100%
+B. 640px
+C. 100em
+D. 1024px
+ANSWER: A
+
+Which element is used in <HEAD> of an HTML/XHTML page, if we want to use an external CSS to decorate the page?
+A. <src>
+B. <link>
+C. <style>
+D. <css>
+ANSWER: B
+
+What attribute can be added to many HTML/XHTML elements to identify them as a member of a specific group?
+A. Id
+B. class
+C. div
+D. span
+ANSWER: B

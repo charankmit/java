@@ -1,0 +1,61 @@
+What CSS describes?
+A. CSS describes how calculation perform on button click.
+B. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+C. Both calculation and display.
+D. None of the mentioned
+ANSWER: B
+
+Internal styles are written within the _____ element.
+A. <style>…</style>
+B. <css>…</css>
+C. <stylesheet>…</stylesheet>
+D. none of the mentioned
+ANSWER: A
+
+CSS comments are placed within the ______.
+A. //
+B. /* and */
+C. <* and *>
+D. <! And !>
+ANSWER: B 
+
+Which property is used to define the text color?
+A. text-color
+B. color
+C. font-color
+D. both text-color and color
+ANSWER: B
+
+Which property is used to define the background color?
+A. bgcolor
+B. bg-color
+C. background
+D. background-color
+ANSWER: D
+
+From the given options which is/are the valid way to represent a color?
+A. A valid color name like "blue"
+B. HEX code like "#0000ff"
+C. RGB Value like "rgb(0,0,255)
+D. All of the mentioned
+ANSWER: D
+
+Which property is used to define the font of the element's text?
+A. font
+B. font-family
+C. font-style
+D. All of the mentioned
+ANSWER: B
+
+To make a text italic, which CSS property is used?
+A. font
+B. font-family
+C. font-style
+D. All of the mentioned
+ANSWER: C
+
+Why font-weight property is used?
+A. Sets how thick or thin characters in text should be displayed.
+B. Sets the size of the font
+C. None of the mentioned
+ANSWER: A
